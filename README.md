@@ -5,4 +5,4 @@
 <h3>2. Udemy </h3>
 <p> Successfully completed <h4>Online Shopping Cart</h4> website usiing Laravel </p>
 
-<p><h3>3</h3>. Participation certificate by <h4>Brainvision</h4></p>
+<h3>3.</h3> Participation certificate by <h4>Brainvision</h4>
