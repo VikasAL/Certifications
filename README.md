@@ -1,8 +1,9 @@
 # Certifications
-<h3>1. Uipath </h3>
-<p> Certified for successful completion of <h4>Robotic Process Automation (RPA)</h4>. </p>
+# 1. Uipath 
+Certified for successful completion of Robotic Process Automation (RPA)</h4>.
 
-<h3>2. Udemy </h3>
-<p> Successfully completed <h4>Online Shopping Cart</h4> website usiing Laravel </p>
+# 2. Udemy 
+Successfully completed <h4>Online Shopping Cart</h4> website usiing Laravel
 
-<h3>3.</h3> Participation certificate by <h4>Brainvision</h4>
+# 3. Brainvision
+Participation certificate by Brainvision
